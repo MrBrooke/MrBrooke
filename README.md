@@ -1,7 +1,7 @@
 ## About me 👋
 
 - 🔭 I’m currently working on creating exemplar projects for IB Computer Science Internal Assessments
-- 🌱 I’m currently learning JAVA FX and Python
+- 🌱 I’m currently learning more about JAVA FX and Python
 - 👯 I’m looking to collaborate on IB Computer Science resources
 - 🤔 I’m looking for help with JAVA FX
 - 💬 Ask me about Educatiional Technology, PedTech, AI in education, teaching, distance learning, Technology integration......
