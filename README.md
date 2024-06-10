@@ -7,5 +7,5 @@
 - 💬 Ask me about Educational Technology, PedTech, AI in education, teaching, distance learning, Technology integration......
 - 📫 How to reach me: https://www.linkedin.com/in/michaeljbrooke/
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: Peanut butter and sambal on toast makes an excellent snack
+- ⚡ Fun fact: Half the people you know are above average
 
