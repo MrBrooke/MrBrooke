@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on creating exemplar projects for IB Computer Science Internal Assessments
 - 🌱 I’m currently learning more about JAVA FX and Python
+- 🌱 I’m currently developign full stack solution for students to learn coding related to Theme B. 
 - 👯 I’m looking to collaborate on IB Computer Science resources
 - 🤔 I’m looking for help with Agentic AI
 - 💬 Ask me about Educational Technology, PedTech, AI in education, teaching, distance learning, Technology integration......
